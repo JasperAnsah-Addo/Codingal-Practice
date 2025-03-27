@@ -1,0 +1,11 @@
+div{
+    height:400px;
+}
+
+#linear{
+    background:linear-gradient(blue,yellow,teal)
+}
+
+#radial{
+    background:radial-gradient(blue,yellow,teal,pink)
+}
