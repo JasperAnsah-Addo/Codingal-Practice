@@ -1,0 +1,29 @@
+.title{
+    color:blueviolet;
+    text-transform:uppercase;
+    text-decoration:overline underline;
+    text-shadow:2px 3px 3px;
+    box-shadow: 2px 3px 10px;
+    text-indent: 20%;
+    background-color: antiquewhite;
+}
+.introduction1{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aquamarine;
+}
+.introduction2{
+    background-color: bisque;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 600;
+}
+.heading2{
+    color: teal;
+    transform: rotateZ(3deg);
+    text-decoration: overline underline;
+}
+.paragraph2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:brown
+    
+}

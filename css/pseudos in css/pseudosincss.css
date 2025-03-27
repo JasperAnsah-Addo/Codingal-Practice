@@ -1,0 +1,17 @@
+.ul > li{
+    color: indianred;
+}
+
+h2 + p{
+    color: aqua;
+}
+
+a:hover{
+    color:yellow;
+}
+
+li:nth-child(2){
+    color:blue
+}
+
+.ol li:not()
