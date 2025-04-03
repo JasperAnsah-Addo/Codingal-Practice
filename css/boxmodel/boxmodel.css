@@ -1,0 +1,20 @@
+.example{
+    background-color: blue;
+    padding-bottom:30px;
+    padding-left:50px;
+    padding-right:20px;
+}
+.margin{
+    background-color: bisque;
+    padding:40px;
+    border: 5px solid green;
+    margin-left: 60px;
+    margin-top:40px;
+    margin-right:50px;
+}
+img#flowerLeft{
+    float:left;
+}
+img#starRight{
+    float:right;
+}
